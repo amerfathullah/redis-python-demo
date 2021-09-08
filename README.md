@@ -35,4 +35,4 @@ Run ```redis-server``` to initiate Redis. Open another Ubuntu terminal and run `
 pip install redis
 ```
 
-3. Now you can open and run the notebook file using Jupyter Notebook, VS Code, Google CoLab or however you want.
+1. Now you can open and run the notebook file using Jupyter Notebook.
